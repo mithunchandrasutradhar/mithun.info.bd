@@ -1,0 +1,5 @@
+[17-Sep-2024 06:00:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function GetData() in /home/wolftaoo/mithun.info.bd/slider.php:88
+Stack trace:
+#0 /home/wolftaoo/mithun.info.bd/index.php(11): require()
+#1 {main}
+  thrown in /home/wolftaoo/mithun.info.bd/slider.php on line 88
